@@ -1,5 +1,6 @@
+echo "# Basic.py" >> README.md
 git init
 git add README.md
 git commit -m "first commit"
-git remote add origin https://github.com/iamszn/Python.py.git
+git remote add origin https://github.com/iamszn/Basic.py.git
 git push -u origin master
